@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Building a home lab]
+  - [Building a home lab](https://github.com/Konstantin-Vlaykovski/HomeLab/tree/main)
 
 <h2>🚀 Virtual Internships:</h2>
   - link
