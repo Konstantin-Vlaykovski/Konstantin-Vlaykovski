@@ -8,4 +8,5 @@
   - link
 
 <h2>🎓 Certifications:</h2>
-  - link
+  - [Certified in Cyber Security (CC)](https://github.com/Konstantin-Vlaykovski/Certified-in-Cybersecurity-CC)
+  
